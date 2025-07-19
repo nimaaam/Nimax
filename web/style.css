@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  direction: rtl;
+  background-color: #121212;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+.container {
+  max-width: 400px;
+  margin: auto;
+}
+button {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  background-color: #00bfa6;
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  margin-top: 1.5rem;
+}
+#ticketResult {
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  color: #ffd600;
+}
